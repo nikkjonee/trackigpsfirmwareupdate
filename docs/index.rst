@@ -7,11 +7,14 @@ How to Check for the Latest Tracki GPS Firmware Update
    :maxdepth: 2
    :caption: Contents:
 
-  .. image:: update.png
+
+.. image:: update.png
    :alt: My Project Logo
    :width: 500px
    :align: center
    :target: https://navisolve.com/
+
+________
 
 If you're using a Tracki GPS tracker to monitor your assets, loved ones, or vehicles, keeping the device's firmware up to date is essential. A firmware update can improve performance, enhance security, and sometimes even add new features. In this article, we’ll guide you through how to check for the latest Tracki GPS firmware update and ensure your device is running smoothly.
 
