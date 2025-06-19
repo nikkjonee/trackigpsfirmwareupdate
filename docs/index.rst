@@ -1,5 +1,7 @@
 How to Check for the Latest Tracki GPS Firmware Update
 ============================================
+.
+.
 
 .. toctree::
    :maxdepth: 2
